@@ -9,7 +9,8 @@ Antes de comenzar, asegúrate de tener las siguientes herramientas instaladas:
 
 Node.js
 npm o yarn
-Instalación
+
+Instalación:
 Sigue estos pasos para instalar y ejecutar la aplicación en tu entorno local.
 
 Clona este repositorio:
